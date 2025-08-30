@@ -21,5 +21,5 @@ set(CMAKE_EXPERIMENTAL_CXX_MODULE_DYNDEP 1)
 #-------------------------------------------------------------------------------------------------------------
 add_subdirectory(cmet)  # dll
 add_subdirectory(dexample)  # dll
-add_subdirectory(launcher)  # exe
+add_subdirectory(ALauncher)  # exe
 #-------------------------------------------------------------------------------------------------------------
