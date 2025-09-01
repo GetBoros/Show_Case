@@ -2,8 +2,8 @@
 
 #include "Main.h"
 
-#include "cppmet.h"
-#include "AdTemp.h"
+#include "cppmet.h"  // .dll cmet
+#include "AdTemp.h"  // .dll dexample
 
 int main()
 {
